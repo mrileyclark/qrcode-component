@@ -56,7 +56,7 @@ p {
 }
 
 p + p {
- color: hsl(212, 45%, 89%);
+ color: hsl(220, 15%, 55%);
  font-weight: 400; 
  font-size: 12px; 
  margin-bottom: 10%;
