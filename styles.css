@@ -58,6 +58,6 @@ p {
 p + p {
  color: hsl(220, 15%, 55%);
  font-weight: 400; 
- font-size: 12.5px; 
+ font-size: 12px; 
  margin-bottom: 10%;
 }
