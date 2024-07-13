@@ -62,15 +62,15 @@ Use this section to outline areas that you want to continue focusing on in futur
 **Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.** -->
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
+<!-- 
+- Website - [Add your name here](https://www.your-site.com) -->
 - Frontend Mentor - [@mrileyclark](https://www.frontendmentor.io/profile/mrileyclark)
 - Twitter - [@maryariley4578](https://twitter.com/maryariley4578)
 
 
 
 
-
+<!-- 
 
 **********  delete when finished
 
@@ -97,4 +97,4 @@ Submit your solution on the platform for the rest of the community to see. Follo
 
 Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
 
-
+ -->
