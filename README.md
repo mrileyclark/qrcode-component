@@ -11,16 +11,9 @@ Thanks for checking out this front-end mentor coding challenge I tackeled to bui
 
 <!-- Link to project: [https://mrileyclark.github.io/nasa-api-homework/] -->
 
-<img src="" width="50%" height="30%">
+<img src="/images/Screenshot 2024-07-13 at 3.13.17 PM.png" width="50%" height="30%">
 
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-    - [My process](#my-process)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 ****
   
 ## Built with:
