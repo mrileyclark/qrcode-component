@@ -3,10 +3,10 @@
 
 Thanks for checking out this front-end mentor coding challenge I tackeled to build a QR code component. This project is a card layout that doesn't shift, to build upon my knowledge of HTML and CSS.
 
-### Links
+<!-- ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
 
 
 <!-- Link to project: [https://mrileyclark.github.io/nasa-api-homework/] -->
@@ -21,12 +21,12 @@ Thanks for checking out this front-end mentor coding challenge I tackeled to bui
 - HTML: Provides the structure and content of the web page.
 - CSS: Styles the layout and enhances the visual appeal of the project.
 
-## My process
+<!-- ## My process -->
 
 
 
 
-### What I learned
+<!-- ### What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
@@ -44,10 +44,10 @@ To see how you can add code snippets, see below:
 const proudOfThisFunc = () => {
   console.log('🎉')
 }
-```
+``` -->
 
 
-
+<!-- 
 ### Continued development
 
 Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
@@ -59,7 +59,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 - [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
+**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.** -->
 
 ## Author
 
